@@ -1,0 +1,13 @@
+# Ignore files with secret data
+.env
+
+# Cache, temporary files, and dependencies
+__pycache__/
+*.pyc
+*.pyo
+
+# Log files
+*.log
+
+# Virtual environment
+.venv/
